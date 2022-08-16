@@ -13,7 +13,7 @@ The [Quick Start Coding Guide](https://docs.battlesnake.com/guides/getting-start
 
 ### Installation and run (locally)
 
-Eventually you might want to run your Battlesnake server locally for faster testing and debugging. You can do this by installing [Julia](https://julialang.org) and running:
+Eventually you might want to run your Battlesnake server locally for faster testing and debugging. You can do this by installing [Julia](https://julialang.org) and running (tested with *julia 1.7.3*):
 
 ```shell
 git clone https://github.com/luigiannelli/starter-snake-julia.git
